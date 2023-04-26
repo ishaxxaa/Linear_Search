@@ -24,3 +24,8 @@ End the main function.
 ![image](https://user-images.githubusercontent.com/126075191/234510963-c320b4b7-0184-4b93-a8f2-ccffab45d082.png)
 
 
+OUTPUT:
+<img width="634" alt="linear_search" src="https://user-images.githubusercontent.com/126075191/234511487-d3906568-7721-434d-8227-ef18b9bf4d66.PNG">
+
+
+
