@@ -1,6 +1,5 @@
 # Linear_Search
 
-Linear search
 This is a simple program that implements the Linear Search algorithm. It searches for a given target value in a array of integers and returns the position of the target value if found or -1 if not found.
 
 Algorithm
@@ -21,7 +20,7 @@ b. Check if 'result' is equal to -1.
 i. If yes, print "Target value not found in the array."
 ii. If no, print "Target value found at index: " followed by the value of 'result'.
 End the main function.
-image
 
-Output for the above image example would be :
-image
+![image](https://user-images.githubusercontent.com/126075191/234510963-c320b4b7-0184-4b93-a8f2-ccffab45d082.png)
+
+
